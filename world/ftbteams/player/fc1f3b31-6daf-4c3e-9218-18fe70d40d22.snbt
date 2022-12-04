@@ -1,0 +1,20 @@
+{
+	id: "fc1f3b31-6daf-4c3e-9218-18fe70d40d22"
+	type: "player"
+	player_name: "Stancedd"
+	ranks: {
+		fc1f3b31-6daf-4c3e-9218-18fe70d40d22: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Stancedd"
+		"ftbteams:color": "#597DFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

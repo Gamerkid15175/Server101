@@ -1,0 +1,787 @@
+# Last execution: 04-12-2022 01:19:34
+bloodmagic:arc {
+	bloodmagic:arc/dustsfrom_ore_gold
+		- bloodmagic:arc/dustsfrom_ore_gold
+		- bloodmagic:arc/ore/dustgold
+
+	bloodmagic:arc/ore/dustiron
+		- bloodmagic:arc/dustsfrom_ore_iron
+		- bloodmagic:arc/ore/dustiron
+
+}
+
+create:splashing {
+	create:splashing/immersiveengineering/crushed_lead_ore
+		- create:splashing/immersiveengineering/crushed_lead_ore
+		- create:splashing/mekanism/crushed_lead_ore
+		- create:splashing/thermal/crushed_lead_ore
+
+	create:splashing/immersiveengineering/crushed_nickel_ore
+		- create:splashing/immersiveengineering/crushed_nickel_ore
+		- create:splashing/thermal/crushed_nickel_ore
+
+	create:splashing/immersiveengineering/crushed_silver_ore
+		- create:splashing/immersiveengineering/crushed_silver_ore
+		- create:splashing/thermal/crushed_silver_ore
+
+	create:splashing/immersiveengineering/crushed_uranium_ore
+		- create:splashing/immersiveengineering/crushed_uranium_ore
+		- create:splashing/mekanism/crushed_uranium_ore
+
+	create:splashing/thermal/crushed_tin_ore
+		- create:splashing/mekanism/crushed_tin_ore
+		- create:splashing/thermal/crushed_tin_ore
+
+}
+
+immersiveengineering:crusher {
+	immersiveengineering:crusher/ore_gold
+		- immersiveengineering:crusher/nether_gold
+		- immersiveengineering:crusher/ore_gold
+
+}
+
+minecraft:blasting {
+	blue_skies:emerald_from_blasting_everdawn_emerald_ore
+		- blue_skies:emerald_from_blasting_everbright_emerald_ore
+		- blue_skies:emerald_from_blasting_everdawn_emerald_ore
+		- minecraft:emerald_from_blasting_deepslate_emerald_ore
+		- minecraft:emerald_from_blasting_emerald_ore
+
+	create:blasting/ingot_nickel_compat_immersiveengineering
+		- create:blasting/ingot_nickel_compat_immersiveengineering
+		- create:blasting/nickel_ingot_compat_thermal
+
+	create:blasting/ingot_silver_compat_immersiveengineering
+		- create:blasting/ingot_silver_compat_immersiveengineering
+		- create:blasting/silver_ingot_compat_thermal
+
+	create:blasting/ingot_uranium_compat_immersiveengineering
+		- create:blasting/ingot_uranium_compat_immersiveengineering
+		- create:blasting/ingot_uranium_compat_mekanism
+
+	create:blasting/lead_ingot_compat_thermal
+		- create:blasting/ingot_lead_compat_immersiveengineering
+		- create:blasting/ingot_lead_compat_mekanism
+		- create:blasting/lead_ingot_compat_thermal
+
+	create:blasting/tin_ingot_compat_thermal
+		- create:blasting/ingot_tin_compat_mekanism
+		- create:blasting/tin_ingot_compat_thermal
+
+	ftbic:blasting/dusts/aluminum_to_ingot
+		- ftbic:blasting/dusts/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum_from_dust_from_blasting
+
+	ftbic:blasting/dusts/bronze_to_ingot
+		- ftbic:blasting/dusts/bronze_to_ingot
+		- mekanism:processing/bronze/ingot/from_dust_blasting
+		- thermal:smelting/bronze_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/copper_to_copper_ingot
+		- bloodmagic:smelting/blasting_ingot_copper
+		- ftbic:blasting/dusts/copper_to_copper_ingot
+		- immersiveengineering:smelting/copper_ingot_from_dust_from_blasting
+		- mekanism:processing/copper/ingot/from_dust_blasting
+		- occultism:blasting/copper_ingot_from_dust
+		- thermal:smelting/copper_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/enderium_to_ingot
+		- ftbic:blasting/dusts/enderium_to_ingot
+		- thermal:smelting/enderium_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/gold_to_gold_ingot
+		- bloodmagic:smelting/blasting_ingot_gold
+		- ftbic:blasting/dusts/gold_to_gold_ingot
+		- immersiveengineering:smelting/gold_ingot_from_dust_from_blasting
+		- mekanism:processing/gold/ingot/from_dust_blasting
+		- occultism:blasting/gold_ingot_from_dust
+		- thermal:smelting/gold_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/iron_to_iron_ingot
+		- bloodmagic:smelting/blasting_ingot_iron
+		- ftbic:blasting/dusts/iron_to_iron_ingot
+		- immersiveengineering:smelting/iron_ingot_from_dust_from_blasting
+		- mekanism:processing/iron/ingot/from_dust_blasting
+		- occultism:blasting/iron_ingot_from_dust
+		- thermal:smelting/iron_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/lead_to_ingot
+		- ftbic:blasting/dusts/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead_from_dust_from_blasting
+		- mekanism:processing/lead/ingot/from_dust_blasting
+		- thermal:smelting/lead_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/tin_to_ingot
+		- ftbic:blasting/dusts/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_dust_blasting
+		- thermal:smelting/tin_ingot_from_dust_blasting
+
+	ftbic:blasting/dusts/uranium_to_ingot
+		- ftbic:blasting/dusts/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium_from_dust_from_blasting
+		- mekanism:processing/uranium/ingot/from_dust_blasting
+
+	ftbic:blasting/ores/aluminum_to_ingot
+		- ftbic:blasting/ores/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum_from_blasting
+		- immersiveengineering:smelting/ingot_aluminum_from_blasting2
+
+	ftbic:blasting/ores/lead_to_ingot
+		- ftbic:blasting/ores/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead_from_blasting
+		- immersiveengineering:smelting/ingot_lead_from_blasting2
+		- mekanism:processing/lead/ingot/from_ore_blasting
+		- thermal:smelting/lead_ingot_from_deepslate_ore_blasting
+		- thermal:smelting/lead_ingot_from_ore_blasting
+
+	ftbic:blasting/ores/tin_to_ingot
+		- ftbic:blasting/ores/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_ore_blasting
+		- thermal:smelting/tin_ingot_from_deepslate_ore_blasting
+		- thermal:smelting/tin_ingot_from_ore_blasting
+
+	ftbic:blasting/ores/uranium_to_ingot
+		- ftbic:blasting/ores/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium_from_blasting
+		- immersiveengineering:smelting/ingot_uranium_from_blasting2
+		- mekanism:processing/uranium/ingot/from_ore_blasting
+
+	ftbic:blasting/raw_materials/aluminum_to_ingot
+		- ftbic:blasting/raw_materials/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum_from_blasting3
+
+	ftbic:blasting/raw_materials/lead_to_ingot
+		- ftbic:blasting/raw_materials/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead_from_blasting3
+		- mekanism:processing/lead/ingot/from_raw_blasting
+		- thermal:smelting/lead_ingot_from_raw_blasting
+
+	ftbic:blasting/raw_materials/tin_to_ingot
+		- ftbic:blasting/raw_materials/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_raw_blasting
+		- thermal:smelting/tin_ingot_from_raw_blasting
+
+	ftbic:blasting/raw_materials/uranium_to_ingot
+		- ftbic:blasting/raw_materials/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium_from_blasting3
+		- mekanism:processing/uranium/ingot/from_raw_blasting
+
+	immersiveengineering:smelting/ingot_nickel_from_blasting3
+		- immersiveengineering:smelting/ingot_nickel_from_blasting3
+		- thermal:smelting/nickel_ingot_from_raw_blasting
+
+	immersiveengineering:smelting/ingot_nickel_from_dust_from_blasting
+		- immersiveengineering:smelting/ingot_nickel_from_dust_from_blasting
+		- thermal:smelting/nickel_ingot_from_dust_blasting
+
+	immersiveengineering:smelting/ingot_silver_from_blasting2
+		- immersiveengineering:smelting/ingot_silver_from_blasting
+		- immersiveengineering:smelting/ingot_silver_from_blasting2
+		- occultism:blasting/silver_ingot
+		- thermal:smelting/silver_ingot_from_deepslate_ore_blasting
+		- thermal:smelting/silver_ingot_from_ore_blasting
+
+	immersiveengineering:smelting/ingot_silver_from_blasting3
+		- immersiveengineering:smelting/ingot_silver_from_blasting3
+		- occultism:blasting/silver_ingot_from_raw
+		- thermal:smelting/silver_ingot_from_raw_blasting
+
+	mekanism:processing/netherite/ingot_from_dust_blasting
+		- mekanism:processing/netherite/ingot_from_dust_blasting
+		- thermal:smelting/netherite_ingot_from_dust_blasting
+
+	mekanism:processing/steel/ingot/from_dust_blasting
+		- immersiveengineering:smelting/ingot_steel_from_dust_from_blasting
+		- mekanism:processing/steel/ingot/from_dust_blasting
+
+	minecraft:copper_ingot_from_blasting_deepslate_copper_ore
+		- minecraft:copper_ingot_from_blasting_copper_ore
+		- minecraft:copper_ingot_from_blasting_deepslate_copper_ore
+
+	minecraft:diamond_from_blasting_deepslate_diamond_ore
+		- minecraft:diamond_from_blasting_deepslate_diamond_ore
+		- minecraft:diamond_from_blasting_diamond_ore
+		- undergarden:blast_depthrock_diamond_ore
+		- undergarden:blast_shiverstone_diamond_ore
+
+	minecraft:lapis_lazuli_from_blasting_deepslate_lapis_ore
+		- minecraft:lapis_lazuli_from_blasting_deepslate_lapis_ore
+		- minecraft:lapis_lazuli_from_blasting_lapis_ore
+
+	occultism:blasting/silver_ingot_from_dust
+		- immersiveengineering:smelting/ingot_silver_from_dust_from_blasting
+		- occultism:blasting/silver_ingot_from_dust
+		- thermal:smelting/silver_ingot_from_dust_blasting
+
+	thermal:smelting/constantan_ingot_from_dust_blasting
+		- immersiveengineering:smelting/ingot_constantan_from_dust_from_blasting
+		- thermal:smelting/constantan_ingot_from_dust_blasting
+
+	thermal:smelting/electrum_ingot_from_dust_blasting
+		- immersiveengineering:smelting/ingot_electrum_from_dust_from_blasting
+		- thermal:smelting/electrum_ingot_from_dust_blasting
+
+	thermal:smelting/nickel_ingot_from_deepslate_ore_blasting
+		- immersiveengineering:smelting/ingot_nickel_from_blasting
+		- immersiveengineering:smelting/ingot_nickel_from_blasting2
+		- thermal:smelting/nickel_ingot_from_deepslate_ore_blasting
+		- thermal:smelting/nickel_ingot_from_ore_blasting
+
+	undergarden:blast_depthrock_gold_ore
+		- byg:gold_ingot_from_blasting_blue_nether_gold_ore
+		- byg:gold_ingot_from_blasting_brimstone_nether_gold_ore
+		- minecraft:gold_ingot_from_blasting_deepslate_gold_ore
+		- minecraft:gold_ingot_from_blasting_gold_ore
+		- minecraft:gold_ingot_from_blasting_nether_gold_ore
+		- undergarden:blast_depthrock_gold_ore
+
+	undergarden:blast_shiverstone_coal_ore
+		- minecraft:coal_from_blasting_coal_ore
+		- minecraft:coal_from_blasting_deepslate_coal_ore
+		- undergarden:blast_depthrock_coal_ore
+		- undergarden:blast_shiverstone_coal_ore
+
+	undergarden:blast_shiverstone_iron_ore
+		- minecraft:iron_ingot_from_blasting_deepslate_iron_ore
+		- minecraft:iron_ingot_from_blasting_iron_ore
+		- undergarden:blast_depthrock_iron_ore
+		- undergarden:blast_shiverstone_iron_ore
+
+}
+
+minecraft:crafting_shaped {
+	ftbic:shaped/ingots/copper_to_copper_gear
+		- ftbic:shaped/ingots/copper_to_copper_gear
+		- thermal:parts/copper_gear
+
+	ftbic:shaped/ingots/enderium_to_enderium_gear
+		- ftbic:shaped/ingots/enderium_to_enderium_gear
+		- thermal:parts/enderium_gear
+
+	ftbic:shaped/ingots/gold_to_gold_gear
+		- ftbic:shaped/ingots/gold_to_gold_gear
+		- thermal:parts/gold_gear
+
+	immersiveengineering:crafting/coal_coke_to_coke
+		- immersiveengineering:crafting/coal_coke_to_coke
+		- thermal:storage/coal_coke_block
+
+	immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum
+		- ftbic:shaped/aluminum_ingot_to_aluminum_block
+		- immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum
+
+	immersiveengineering:crafting/ingot_lead_to_storage_lead
+		- ftbic:shaped/lead_ingot_to_lead_block
+		- immersiveengineering:crafting/ingot_lead_to_storage_lead
+		- mekanism:processing/lead/storage_blocks/from_ingots
+		- thermal:storage/lead_block
+
+	immersiveengineering:crafting/ingot_nickel_to_storage_nickel
+		- immersiveengineering:crafting/ingot_nickel_to_storage_nickel
+		- thermal:storage/nickel_block
+
+	immersiveengineering:crafting/ingot_silver_to_storage_silver
+		- immersiveengineering:crafting/ingot_silver_to_storage_silver
+		- occultism:crafting/silver_block
+		- thermal:storage/silver_block
+
+	immersiveengineering:crafting/ingot_uranium_to_storage_uranium
+		- ftbic:shaped/uranium_ingot_to_uranium_block
+		- immersiveengineering:crafting/ingot_uranium_to_storage_uranium
+		- mekanism:processing/uranium/storage_blocks/from_ingots
+
+	immersiveengineering:crafting/nugget_aluminum_to_ingot_aluminum
+		- ftbic:shaped/nuggets/aluminum_to_aluminum_ingot
+		- immersiveengineering:crafting/nugget_aluminum_to_ingot_aluminum
+
+	immersiveengineering:crafting/nugget_electrum_to_ingot_electrum
+		- immersiveengineering:crafting/nugget_electrum_to_ingot_electrum
+		- thermal:storage/electrum_ingot_from_nuggets
+
+	immersiveengineering:crafting/nugget_silver_to_ingot_silver
+		- immersiveengineering:crafting/nugget_silver_to_ingot_silver
+		- occultism:crafting/silver_ingot_from_nuggets
+		- thermal:storage/silver_ingot_from_nuggets
+
+	immersiveengineering:crafting/raw_silver_to_raw_block_silver
+		- immersiveengineering:crafting/raw_silver_to_raw_block_silver
+		- thermal:storage/raw_silver_block
+
+	mekanism:processing/bronze/ingot/from_nuggets
+		- ftbic:shaped/nuggets/bronze_to_bronze_ingot
+		- mekanism:processing/bronze/ingot/from_nuggets
+		- thermal:storage/bronze_ingot_from_nuggets
+
+	mekanism:processing/lead/ingot/from_nuggets
+		- ftbic:shaped/nuggets/lead_to_lead_ingot
+		- immersiveengineering:crafting/nugget_lead_to_ingot_lead
+		- mekanism:processing/lead/ingot/from_nuggets
+		- thermal:storage/lead_ingot_from_nuggets
+
+	mekanism:processing/steel/ingot/from_nuggets
+		- immersiveengineering:crafting/nugget_steel_to_ingot_steel
+		- mekanism:processing/steel/ingot/from_nuggets
+
+	mekanism:processing/uranium/ingot/from_nuggets
+		- ftbic:shaped/nuggets/uranium_to_uranium_ingot
+		- immersiveengineering:crafting/nugget_uranium_to_ingot_uranium
+		- mekanism:processing/uranium/ingot/from_nuggets
+
+	mekanism:processing/uranium/raw_storage_blocks/from_raw
+		- immersiveengineering:crafting/raw_uranium_to_raw_block_uranium
+		- mekanism:processing/uranium/raw_storage_blocks/from_raw
+
+	mekanism:storage_blocks/steel
+		- immersiveengineering:crafting/ingot_steel_to_storage_steel
+		- mekanism:storage_blocks/steel
+
+	quark:building/crafting/compressed/charcoal_block
+		- mekanism:storage_blocks/charcoal
+		- quark:building/crafting/compressed/charcoal_block
+		- thermal:storage/charcoal_block
+
+	thermal:parts/bronze_gear
+		- ftbic:shaped/ingots/bronze_to_bronze_gear
+		- thermal:parts/bronze_gear
+
+	thermal:parts/iron_gear
+		- ftbic:shaped/ingots/iron_to_iron_gear
+		- thermal:parts/iron_gear
+
+	thermal:parts/lead_gear
+		- ftbic:shaped/ingots/lead_to_lead_gear
+		- thermal:parts/lead_gear
+
+	thermal:parts/tin_gear
+		- ftbic:shaped/ingots/tin_to_tin_gear
+		- thermal:parts/tin_gear
+
+	thermal:storage/bronze_block
+		- ftbic:shaped/bronze_ingot_to_bronze_block
+		- mekanism:storage_blocks/bronze
+		- thermal:storage/bronze_block
+
+	thermal:storage/constantan_block
+		- immersiveengineering:crafting/ingot_constantan_to_storage_constantan
+		- thermal:storage/constantan_block
+
+	thermal:storage/constantan_ingot_from_nuggets
+		- immersiveengineering:crafting/nugget_constantan_to_ingot_constantan
+		- thermal:storage/constantan_ingot_from_nuggets
+
+	thermal:storage/copper_ingot_from_nuggets
+		- create:crafting/materials/copper_ingot
+		- ftbic:shaped/nuggets/copper_to_copper_ingot
+		- immersiveengineering:crafting/nugget_copper_to_copper_ingot
+		- malum:copper_ingot_from_nugget
+		- tconstruct:common/materials/copper_ingot_from_nuggets
+		- thermal:storage/copper_ingot_from_nuggets
+
+	thermal:storage/electrum_block
+		- immersiveengineering:crafting/ingot_electrum_to_storage_electrum
+		- thermal:storage/electrum_block
+
+	thermal:storage/enderium_block
+		- ftbic:shaped/enderium_ingot_to_enderium_block
+		- thermal:storage/enderium_block
+
+	thermal:storage/enderium_ingot_from_nuggets
+		- ftbic:shaped/nuggets/enderium_to_enderium_ingot
+		- thermal:storage/enderium_ingot_from_nuggets
+
+	thermal:storage/netherite_ingot_from_nuggets
+		- tconstruct:common/materials/netherite_ingot_from_nuggets
+		- thermal:storage/netherite_ingot_from_nuggets
+
+	thermal:storage/nickel_ingot_from_nuggets
+		- immersiveengineering:crafting/nugget_nickel_to_ingot_nickel
+		- thermal:storage/nickel_ingot_from_nuggets
+
+	thermal:storage/raw_lead_block
+		- immersiveengineering:crafting/raw_lead_to_raw_block_lead
+		- mekanism:processing/lead/raw_storage_blocks/from_raw
+		- thermal:storage/raw_lead_block
+
+	thermal:storage/raw_nickel_block
+		- immersiveengineering:crafting/raw_nickel_to_raw_block_nickel
+		- thermal:storage/raw_nickel_block
+
+	thermal:storage/raw_tin_block
+		- mekanism:processing/tin/raw_storage_blocks/from_raw
+		- thermal:storage/raw_tin_block
+
+	thermal:storage/tin_block
+		- ftbic:shaped/tin_ingot_to_tin_block
+		- mekanism:processing/tin/storage_blocks/from_ingots
+		- thermal:storage/tin_block
+
+	thermal:storage/tin_ingot_from_nuggets
+		- ftbic:shaped/nuggets/tin_to_tin_ingot
+		- mekanism:processing/tin/ingot/from_nuggets
+		- thermal:storage/tin_ingot_from_nuggets
+
+}
+
+minecraft:crafting_shapeless {
+	immersiveengineering:crafting/constantan_mix
+		- immersiveengineering:crafting/constantan_mix
+		- thermal:constantan_dust_2
+
+	immersiveengineering:crafting/electrum_mix
+		- immersiveengineering:crafting/electrum_mix
+		- thermal:electrum_dust_2
+
+	immersiveengineering:crafting/ingot_aluminum_to_nugget_aluminum
+		- ftbic:shapeless/aluminum_ingot_to_aluminum_nugget
+		- immersiveengineering:crafting/ingot_aluminum_to_nugget_aluminum
+
+	immersiveengineering:crafting/ingot_constantan_to_nugget_constantan
+		- immersiveengineering:crafting/ingot_constantan_to_nugget_constantan
+		- thermal:storage/constantan_nugget_from_ingot
+
+	immersiveengineering:crafting/ingot_electrum_to_nugget_electrum
+		- immersiveengineering:crafting/ingot_electrum_to_nugget_electrum
+		- thermal:storage/electrum_nugget_from_ingot
+
+	immersiveengineering:crafting/ingot_lead_to_nugget_lead
+		- ftbic:shapeless/lead_ingot_to_lead_nugget
+		- immersiveengineering:crafting/ingot_lead_to_nugget_lead
+		- mekanism:processing/lead/nugget/from_ingot
+		- thermal:storage/lead_nugget_from_ingot
+
+	immersiveengineering:crafting/raw_block_uranium_to_raw_uranium
+		- immersiveengineering:crafting/raw_block_uranium_to_raw_uranium
+		- mekanism:processing/uranium/raw/from_raw_block
+
+	immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum
+		- ftbic:shapeless/aluminum_block_to_aluminum_ingot
+		- immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum
+
+	immersiveengineering:crafting/storage_constantan_to_ingot_constantan
+		- immersiveengineering:crafting/storage_constantan_to_ingot_constantan
+		- thermal:storage/constantan_ingot_from_block
+
+	immersiveengineering:crafting/storage_electrum_to_ingot_electrum
+		- immersiveengineering:crafting/storage_electrum_to_ingot_electrum
+		- thermal:storage/electrum_ingot_from_block
+
+	immersiveengineering:crafting/storage_nickel_to_ingot_nickel
+		- immersiveengineering:crafting/storage_nickel_to_ingot_nickel
+		- thermal:storage/nickel_ingot_from_block
+
+	immersiveengineering:crafting/storage_silver_to_ingot_silver
+		- immersiveengineering:crafting/storage_silver_to_ingot_silver
+		- occultism:crafting/silver_ingot_from_block
+		- thermal:storage/silver_ingot_from_block
+
+	mekanism:nuggets/steel
+		- immersiveengineering:crafting/ingot_steel_to_nugget_steel
+		- mekanism:nuggets/steel
+
+	mekanism:processing/bronze/ingot/from_block
+		- ftbic:shapeless/bronze_block_to_bronze_ingot
+		- mekanism:processing/bronze/ingot/from_block
+		- thermal:storage/bronze_ingot_from_block
+
+	mekanism:processing/lead/ingot/from_block
+		- ftbic:shapeless/lead_block_to_lead_ingot
+		- immersiveengineering:crafting/storage_lead_to_ingot_lead
+		- mekanism:processing/lead/ingot/from_block
+		- thermal:storage/lead_ingot_from_block
+
+	mekanism:processing/steel/ingot/from_block
+		- immersiveengineering:crafting/storage_steel_to_ingot_steel
+		- mekanism:processing/steel/ingot/from_block
+
+	mekanism:processing/tin/nugget/from_ingot
+		- ftbic:shapeless/tin_ingot_to_tin_nugget
+		- mekanism:processing/tin/nugget/from_ingot
+		- thermal:storage/tin_nugget_from_ingot
+
+	mekanism:processing/uranium/ingot/from_block
+		- ftbic:shapeless/uranium_block_to_uranium_ingot
+		- immersiveengineering:crafting/storage_uranium_to_ingot_uranium
+		- mekanism:processing/uranium/ingot/from_block
+
+	mekanism:processing/uranium/nugget/from_ingot
+		- ftbic:shapeless/uranium_ingot_to_uranium_nugget
+		- immersiveengineering:crafting/ingot_uranium_to_nugget_uranium
+		- mekanism:processing/uranium/nugget/from_ingot
+
+	quark:building/crafting/compressed/charcoal_block_uncompress
+		- mekanism:charcoal
+		- quark:building/crafting/compressed/charcoal_block_uncompress
+		- thermal:storage/charcoal_from_block
+
+	thermal:storage/bronze_nugget_from_ingot
+		- ftbic:shapeless/bronze_ingot_to_bronze_nugget
+		- mekanism:nuggets/bronze
+		- thermal:storage/bronze_nugget_from_ingot
+
+	thermal:storage/coal_coke_from_block
+		- immersiveengineering:crafting/coke_to_coal_coke
+		- thermal:storage/coal_coke_from_block
+
+	thermal:storage/copper_nugget_from_ingot
+		- create:crafting/materials/copper_nugget
+		- ftbic:shapeless/copper_ingot_to_copper_nugget
+		- immersiveengineering:crafting/copper_ingot_to_nugget_copper
+		- malum:copper_nugget_from_ingot
+		- tconstruct:common/materials/copper_nugget_from_ingot
+		- thermal:storage/copper_nugget_from_ingot
+
+	thermal:storage/enderium_ingot_from_block
+		- ftbic:shapeless/enderium_block_to_enderium_ingot
+		- thermal:storage/enderium_ingot_from_block
+
+	thermal:storage/enderium_nugget_from_ingot
+		- ftbic:shapeless/enderium_ingot_to_enderium_nugget
+		- thermal:storage/enderium_nugget_from_ingot
+
+	thermal:storage/netherite_nugget_from_ingot
+		- tconstruct:common/materials/netherite_nugget_from_ingot
+		- thermal:storage/netherite_nugget_from_ingot
+
+	thermal:storage/nickel_nugget_from_ingot
+		- immersiveengineering:crafting/ingot_nickel_to_nugget_nickel
+		- thermal:storage/nickel_nugget_from_ingot
+
+	thermal:storage/raw_lead_from_block
+		- immersiveengineering:crafting/raw_block_lead_to_raw_lead
+		- mekanism:processing/lead/raw/from_raw_block
+		- thermal:storage/raw_lead_from_block
+
+	thermal:storage/raw_nickel_from_block
+		- immersiveengineering:crafting/raw_block_nickel_to_raw_nickel
+		- thermal:storage/raw_nickel_from_block
+
+	thermal:storage/raw_silver_from_block
+		- immersiveengineering:crafting/raw_block_silver_to_raw_silver
+		- thermal:storage/raw_silver_from_block
+
+	thermal:storage/raw_tin_from_block
+		- mekanism:processing/tin/raw/from_raw_block
+		- thermal:storage/raw_tin_from_block
+
+	thermal:storage/silver_nugget_from_ingot
+		- immersiveengineering:crafting/ingot_silver_to_nugget_silver
+		- occultism:crafting/silver_nugget
+		- thermal:storage/silver_nugget_from_ingot
+
+	thermal:storage/tin_ingot_from_block
+		- ftbic:shapeless/tin_block_to_tin_ingot
+		- mekanism:processing/tin/ingot/from_block
+		- thermal:storage/tin_ingot_from_block
+
+}
+
+minecraft:smelting {
+	create:smelting/ingot_lead_compat_mekanism
+		- create:smelting/ingot_lead_compat_immersiveengineering
+		- create:smelting/ingot_lead_compat_mekanism
+		- create:smelting/lead_ingot_compat_thermal
+
+	create:smelting/ingot_nickel_compat_immersiveengineering
+		- create:smelting/ingot_nickel_compat_immersiveengineering
+		- create:smelting/nickel_ingot_compat_thermal
+
+	create:smelting/ingot_silver_compat_immersiveengineering
+		- create:smelting/ingot_silver_compat_immersiveengineering
+		- create:smelting/silver_ingot_compat_thermal
+
+	create:smelting/ingot_uranium_compat_immersiveengineering
+		- create:smelting/ingot_uranium_compat_immersiveengineering
+		- create:smelting/ingot_uranium_compat_mekanism
+
+	create:smelting/tin_ingot_compat_thermal
+		- create:smelting/ingot_tin_compat_mekanism
+		- create:smelting/tin_ingot_compat_thermal
+
+	ftbic:smelting/dusts/aluminum_to_ingot
+		- ftbic:smelting/dusts/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum_from_dust
+
+	ftbic:smelting/dusts/bronze_to_ingot
+		- ftbic:smelting/dusts/bronze_to_ingot
+		- mekanism:processing/bronze/ingot/from_dust_smelting
+		- thermal:smelting/bronze_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/enderium_to_ingot
+		- ftbic:smelting/dusts/enderium_to_ingot
+		- thermal:smelting/enderium_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/gold_to_gold_ingot
+		- bloodmagic:smelting/ingot_gold
+		- ftbic:smelting/dusts/gold_to_gold_ingot
+		- immersiveengineering:smelting/gold_ingot_from_dust
+		- mekanism:processing/gold/ingot/from_dust_smelting
+		- occultism:smelting/gold_ingot_from_dust
+		- thermal:smelting/gold_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/iron_to_iron_ingot
+		- bloodmagic:smelting/ingot_iron
+		- ftbic:smelting/dusts/iron_to_iron_ingot
+		- immersiveengineering:smelting/iron_ingot_from_dust
+		- mekanism:processing/iron/ingot/from_dust_smelting
+		- occultism:smelting/iron_ingot_from_dust
+		- thermal:smelting/iron_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/lead_to_ingot
+		- ftbic:smelting/dusts/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead_from_dust
+		- mekanism:processing/lead/ingot/from_dust_smelting
+		- thermal:smelting/lead_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/tin_to_ingot
+		- ftbic:smelting/dusts/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_dust_smelting
+		- thermal:smelting/tin_ingot_from_dust_smelting
+
+	ftbic:smelting/dusts/uranium_to_ingot
+		- ftbic:smelting/dusts/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium_from_dust
+		- mekanism:processing/uranium/ingot/from_dust_smelting
+
+	ftbic:smelting/ores/aluminum_to_ingot
+		- ftbic:smelting/ores/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum
+		- immersiveengineering:smelting/ingot_aluminum2
+
+	ftbic:smelting/ores/tin_to_ingot
+		- ftbic:smelting/ores/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_ore_smelting
+		- thermal:smelting/tin_ingot_from_deepslate_ore_smelting
+		- thermal:smelting/tin_ingot_from_ore_smelting
+
+	ftbic:smelting/raw_materials/aluminum_to_ingot
+		- ftbic:smelting/raw_materials/aluminum_to_ingot
+		- immersiveengineering:smelting/ingot_aluminum3
+
+	ftbic:smelting/raw_materials/tin_to_ingot
+		- ftbic:smelting/raw_materials/tin_to_ingot
+		- mekanism:processing/tin/ingot/from_raw_smelting
+		- thermal:smelting/tin_ingot_from_raw_smelting
+
+	immersiveengineering:smelting/ingot_constantan_from_dust
+		- immersiveengineering:smelting/ingot_constantan_from_dust
+		- thermal:smelting/constantan_ingot_from_dust_smelting
+
+	immersiveengineering:smelting/ingot_lead3
+		- ftbic:smelting/raw_materials/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead3
+		- mekanism:processing/lead/ingot/from_raw_smelting
+		- thermal:smelting/lead_ingot_from_raw_smelting
+
+	immersiveengineering:smelting/ingot_nickel2
+		- immersiveengineering:smelting/ingot_nickel
+		- immersiveengineering:smelting/ingot_nickel2
+		- thermal:smelting/nickel_ingot_from_deepslate_ore_smelting
+		- thermal:smelting/nickel_ingot_from_ore_smelting
+
+	immersiveengineering:smelting/ingot_nickel3
+		- immersiveengineering:smelting/ingot_nickel3
+		- thermal:smelting/nickel_ingot_from_raw_smelting
+
+	immersiveengineering:smelting/ingot_nickel_from_dust
+		- immersiveengineering:smelting/ingot_nickel_from_dust
+		- thermal:smelting/nickel_ingot_from_dust_smelting
+
+	immersiveengineering:smelting/ingot_silver3
+		- immersiveengineering:smelting/ingot_silver3
+		- occultism:smelting/silver_ingot_from_raw
+		- thermal:smelting/silver_ingot_from_raw_smelting
+
+	immersiveengineering:smelting/ingot_uranium2
+		- ftbic:smelting/ores/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium
+		- immersiveengineering:smelting/ingot_uranium2
+		- mekanism:processing/uranium/ingot/from_ore_smelting
+
+	immersiveengineering:smelting/ingot_uranium3
+		- ftbic:smelting/raw_materials/uranium_to_ingot
+		- immersiveengineering:smelting/ingot_uranium3
+		- mekanism:processing/uranium/ingot/from_raw_smelting
+
+	mekanism:processing/netherite/ingot_from_dust_smelting
+		- mekanism:processing/netherite/ingot_from_dust_smelting
+		- thermal:smelting/netherite_ingot_from_dust_smelting
+
+	mekanism:processing/steel/ingot/from_dust_smelting
+		- immersiveengineering:smelting/ingot_steel_from_dust
+		- mekanism:processing/steel/ingot/from_dust_smelting
+
+	minecraft:coal_from_smelting_deepslate_coal_ore
+		- minecraft:coal_from_smelting_coal_ore
+		- minecraft:coal_from_smelting_deepslate_coal_ore
+		- undergarden:smelt_depthrock_coal_ore
+		- undergarden:smelt_shiverstone_coal_ore
+
+	minecraft:copper_ingot_from_smelting_copper_ore
+		- minecraft:copper_ingot_from_smelting_copper_ore
+		- minecraft:copper_ingot_from_smelting_deepslate_copper_ore
+
+	minecraft:diamond_from_smelting_diamond_ore
+		- minecraft:diamond_from_smelting_deepslate_diamond_ore
+		- minecraft:diamond_from_smelting_diamond_ore
+		- undergarden:smelt_depthrock_diamond_ore
+		- undergarden:smelt_shiverstone_diamond_ore
+
+	minecraft:emerald_from_smelting_deepslate_emerald_ore
+		- blue_skies:emerald_from_smelting_everbright_emerald_ore
+		- blue_skies:emerald_from_smelting_everdawn_emerald_ore
+		- minecraft:emerald_from_smelting_deepslate_emerald_ore
+		- minecraft:emerald_from_smelting_emerald_ore
+
+	minecraft:gold_ingot_from_smelting_nether_gold_ore
+		- byg:gold_ingot_from_smelting_blue_nether_gold_ore
+		- byg:gold_ingot_from_smelting_brimstone_nether_gold_ore
+		- minecraft:gold_ingot_from_smelting_deepslate_gold_ore
+		- minecraft:gold_ingot_from_smelting_gold_ore
+		- minecraft:gold_ingot_from_smelting_nether_gold_ore
+		- undergarden:smelt_depthrock_gold_ore
+
+	minecraft:lapis_lazuli_from_smelting_lapis_ore
+		- minecraft:lapis_lazuli_from_smelting_deepslate_lapis_ore
+		- minecraft:lapis_lazuli_from_smelting_lapis_ore
+
+	occultism:smelting/copper_ingot_from_dust
+		- bloodmagic:smelting/ingot_copper
+		- ftbic:smelting/dusts/copper_to_copper_ingot
+		- immersiveengineering:smelting/copper_ingot_from_dust
+		- mekanism:processing/copper/ingot/from_dust_smelting
+		- occultism:smelting/copper_ingot_from_dust
+		- thermal:smelting/copper_ingot_from_dust_smelting
+
+	occultism:smelting/silver_ingot_from_dust
+		- immersiveengineering:smelting/ingot_silver_from_dust
+		- occultism:smelting/silver_ingot_from_dust
+		- thermal:smelting/silver_ingot_from_dust_smelting
+
+	thermal:smelting/electrum_ingot_from_dust_smelting
+		- immersiveengineering:smelting/ingot_electrum_from_dust
+		- thermal:smelting/electrum_ingot_from_dust_smelting
+
+	thermal:smelting/lead_ingot_from_ore_smelting
+		- ftbic:smelting/ores/lead_to_ingot
+		- immersiveengineering:smelting/ingot_lead
+		- immersiveengineering:smelting/ingot_lead2
+		- mekanism:processing/lead/ingot/from_ore_smelting
+		- thermal:smelting/lead_ingot_from_deepslate_ore_smelting
+		- thermal:smelting/lead_ingot_from_ore_smelting
+
+	thermal:smelting/silver_ingot_from_deepslate_ore_smelting
+		- immersiveengineering:smelting/ingot_silver
+		- immersiveengineering:smelting/ingot_silver2
+		- occultism:smelting/silver_ingot
+		- thermal:smelting/silver_ingot_from_deepslate_ore_smelting
+		- thermal:smelting/silver_ingot_from_ore_smelting
+
+	undergarden:smelt_shiverstone_iron_ore
+		- minecraft:iron_ingot_from_smelting_deepslate_iron_ore
+		- minecraft:iron_ingot_from_smelting_iron_ore
+		- undergarden:smelt_depthrock_iron_ore
+		- undergarden:smelt_shiverstone_iron_ore
+
+}
+

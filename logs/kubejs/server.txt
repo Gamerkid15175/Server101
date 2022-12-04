@@ -1,0 +1,230 @@
+[01:18:43] [INFO ] Loaded script server_scripts:constants/materials.js in 0.017 s
+[01:18:43] [INFO ] Loaded script server_scripts:functions.js in 0.01 s
+[01:18:43] [INFO ] Created new mode.json
+[01:18:43] [INFO ] Current packmode is: normal
+[01:18:43] [INFO ] Loaded script server_scripts:packmode.js in 0.01 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/general.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/cobblestones.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/sandstones.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/stones.js in 0.002 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/disabled_items.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:constants/cobbleworks.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:unification/unify_stoneworks.js in 0.004 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/enigmatica/washables.js in 0.008 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/enigmatica/stonecutter.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/enigmatica/cobbleworks.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/enigmatica/tinkers_anvil.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/industrialforegoing/addons.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/minecraft/leaves.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/minecraft/coals.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/glass_panes.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/netherbricks.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/dirt.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/cobblestone_slabs.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/netherrack.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/weapons/swords.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/weapons/ranged.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/weapons/melee.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/corals.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/armor/legs.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/armor/helms.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/armor/chests.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/armor/shields.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/armor/boots.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/ores.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/workbench.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/lights.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage_blocks.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/gems.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/stones.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/terracotta.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/hammers.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/fishing_rods.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/shovels.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/crafting_hammers.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/knives.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/pickaxes.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/hoes.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/multi-tools.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/axes.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools/wirecutter.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/carpet.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/stained_glass_pane.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/material_substitutes.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/cobblestone.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/grass.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/pies.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/tools.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/stone.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/planks.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/concrete_powder.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/wool.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/liquids.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/gases.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/bags.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/air.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/energy.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/bulk.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/forge/storage/basic.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/twilightforest/banned_uncrafting_ingredients.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/items/sophisticatedstorage/storage_tiers.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/enigmatica/cobbleworks.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/enigmatica/tinkers_anvil.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/ars_nouveau/break_blacklist.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/minecraft/enderman_holdable.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/minecraft/dragon_immune.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/minecraft/base_stone_overworld.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/forge/netherrack.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/forge/ores.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/forge/workbench.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/tags/blocks/forge/storage_blocks.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/generatable.js in 0.002 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/immersiveengineering/metalpress.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/immersiveengineering/crusher.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/minecraft/stonecutting.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/minecraft/smelting.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/minecraft/shapeless.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/minecraft/shaped.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/thermal/shapeless.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/remove.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/replace_input.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/tconstruct/casting_basin.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/recipes/tconstruct/melting.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:base/unification/unify_materials.js in 0.001 s
+[01:18:43] [INFO ] Loaded script server_scripts:settings.js in 0.0 s
+[01:18:43] [INFO ] Loaded script server_scripts:unify_outputs.js in 0.0 s
+[01:18:43] [INFO ] Loaded 93/93 KubeJS server scripts in 0.129 s
+[01:18:43] [INFO ] Scripts loaded
+[01:18:43] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[01:18:43] [INFO ] Scanning recipes...
+[01:19:13] [INFO ] [blocks] Found 1498 tags, added 67 objects, removed 39 objects
+[01:19:23] [INFO ] [items] Found 2480 tags, added 23590 objects, removed 50 objects
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:sythian_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:sythian_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:sythian_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:sythian_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:pine_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:pine_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:pine_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:pine_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:jacaranda_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:jacaranda_planks_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:jacaranda_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:jacaranda_planks_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:blue_enchanted_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:blue_enchanted_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:blue_enchanted_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:blue_enchanted_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:ether_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ether_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:ether_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ether_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:cika_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cika_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:cika_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cika_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe 'macawsroofsbyg:zelkova_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:zelkova_planks_cube_roof'
+[01:19:53] [WARN ] Failed to parse recipe macawsroofsbyg:zelkova_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:zelkova_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:baobab_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:baobab_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:baobab_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:baobab_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:lament_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:lament_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:lament_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:lament_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:witch_hazel_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:witch_hazel_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:witch_hazel_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:witch_hazel_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:cypress_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cypress_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:cypress_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cypress_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:maple_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:maple_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:maple_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:maple_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:mahogany_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mahogany_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:mahogany_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mahogany_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:skyris_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:skyris_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:skyris_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:skyris_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:cherry_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cherry_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:cherry_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cherry_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:bulbis_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:bulbis_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:bulbis_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:bulbis_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:nightshade_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:nightshade_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:nightshade_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:nightshade_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:palm_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:palm_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:palm_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:palm_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:ether_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ether_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:ether_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ether_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:imparius_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:imparius_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:imparius_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:imparius_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[01:19:54] [WARN ] Failed to parse recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:holly_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:holly_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:holly_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:holly_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:cypress_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cypress_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:cypress_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cypress_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:skyris_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:skyris_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:skyris_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:skyris_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:green_enchanted_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:green_enchanted_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:green_enchanted_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:green_enchanted_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:holly_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:holly_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:holly_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:holly_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'jaopca:create.crushed_to_material_smelting.starmetal[minecraft:smelting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:19:54] [WARN ] Failed to parse recipe jaopca:create.crushed_to_material_smelting.starmetal[minecraft:smelting]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:bulbis_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:bulbis_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:bulbis_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:bulbis_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:green_enchanted_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:green_enchanted_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:green_enchanted_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:green_enchanted_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:mangrove_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mangrove_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:mangrove_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mangrove_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:willow_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:willow_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:willow_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:willow_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe 'macawsroofsbyg:cika_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cika_planks_cube_roof'
+[01:19:54] [WARN ] Failed to parse recipe macawsroofsbyg:cika_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cika_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:maple_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:maple_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:maple_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:maple_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:willow_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:willow_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:willow_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:willow_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:mangrove_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mangrove_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:mangrove_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mangrove_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:fir_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:fir_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:fir_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:fir_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:rainbow_eucalyptus_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:rainbow_eucalyptus_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:rainbow_eucalyptus_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:rainbow_eucalyptus_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:nightshade_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:nightshade_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:nightshade_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:nightshade_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'jaopca:dusts.to_material.starmetal[minecraft:smelting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:19:55] [WARN ] Failed to parse recipe jaopca:dusts.to_material.starmetal[minecraft:smelting]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:redwood_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:redwood_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:redwood_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:redwood_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:zelkova_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:zelkova_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:zelkova_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:zelkova_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'ftbic:shapeless/sulfur_from_hammer[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'emendatusenigmatica:enigmatic_hammer'
+[01:19:55] [WARN ] Failed to parse recipe ftbic:shapeless/sulfur_from_hammer[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'emendatusenigmatica:enigmatic_hammer'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:cherry_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cherry_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:cherry_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:cherry_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[01:19:55] [WARN ] Failed to parse recipe pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:sythian_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:sythian_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:sythian_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:sythian_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:witch_hazel_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:witch_hazel_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:witch_hazel_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:witch_hazel_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:ebony_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ebony_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:ebony_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ebony_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:baobab_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:baobab_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:baobab_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:baobab_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:imparius_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:imparius_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:imparius_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:imparius_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:mahogany_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mahogany_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:mahogany_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:mahogany_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:fir_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:fir_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:fir_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:fir_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:rainbow_eucalyptus_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:rainbow_eucalyptus_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:rainbow_eucalyptus_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:rainbow_eucalyptus_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:palm_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:palm_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:palm_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:palm_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:ebony_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ebony_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:ebony_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:ebony_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:jacaranda_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:jacaranda_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:jacaranda_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:jacaranda_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:blue_enchanted_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:blue_enchanted_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:blue_enchanted_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:blue_enchanted_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:aspen_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:aspen_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:aspen_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:aspen_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:redwood_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:redwood_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:redwood_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:redwood_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:lament_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:lament_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:lament_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:lament_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'bloodmagic:meteor/myst_ag[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperity_shard'
+[01:19:55] [WARN ] Failed to parse recipe bloodmagic:meteor/myst_ag[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperity_shard'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:pine_planks_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:pine_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:pine_planks_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:pine_planks_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe 'macawsroofsbyg:aspen_cube_roof[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:aspen_cube_roof'
+[01:19:55] [WARN ] Failed to parse recipe macawsroofsbyg:aspen_cube_roof[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsroofsbyg:aspen_cube_roof'
+[01:19:55] [INFO ] Found 25645 recipes and 0 failed recipes in 2.340 s
+[01:19:55] [INFO ] Posted recipe events in 201.6 ms
+[01:19:56] [INFO ] Modified & removed recipes in 907.8 ms
+[01:19:56] [INFO ] Added recipes in 10.66 ms
+[01:19:56] [INFO ] Added 135 recipes, removed 106 recipes, modified 1 recipes, with 0 failed recipes and 0 fall-backed recipes

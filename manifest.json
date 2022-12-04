@@ -1,0 +1,1765 @@
+{
+    "manifestType":  "minecraftModpack",
+    "version":  "2.3.2",
+    "files":  [
+                  {
+                      "projectID":  536160,
+                      "fileID":  3779789,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3779/789/universalgrid-1.18.2-1.0321.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  225643,
+                      "fileID":  3936568,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3936/568/Botania-1.18.2-435.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  245755,
+                      "fileID":  3830849,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/849/waystones-forge-1.18.2-10.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  348521,
+                      "fileID":  3972426,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3972/426/cloth-config-6.4.90-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  365281,
+                      "fileID":  3585637,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3585/637/serverconfigupdater-2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  417802,
+                      "fileID":  3950686,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3950/686/GatewaysToEternity-1.18.2-2.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  248020,
+                      "fileID":  3932148,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3932/148/FluxNetworks-1.18.2-7.0.7.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  241319,
+                      "fileID":  4001490,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4001/490/reliquary-1.18.2-2.0.19.1161.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  383182,
+                      "fileID":  3916710,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3916/710/XNetGases-1.18.2-3.0.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  231275,
+                      "fileID":  3548400,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3548/400/Ding-1.18-1.3.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  351914,
+                      "fileID":  3788376,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3788/376/mutil-1.18.2-4.5.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  251389,
+                      "fileID":  3993554,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/554/IntegratedTunnels-1.18.2-1.8.15.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  379849,
+                      "fileID":  3810810,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3810/810/The_Undergarden-1.18.2-0.7.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  531761,
+                      "fileID":  3914491,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3914/491/balm-3.2.0+0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  422301,
+                      "fileID":  4006088,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4006/88/sophisticatedbackpacks-1.18.2-3.18.29.718.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  458048,
+                      "fileID":  3777811,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3777/811/DiagonalFences-v3.1.0-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  353051,
+                      "fileID":  3936669,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3936/669/GameMenuModOption-1.18-Forge-1.14.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  496030,
+                      "fileID":  3748654,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3748/654/EnigmaticGraves-1.18.1-1.7.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  388800,
+                      "fileID":  3995029,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3995/29/polymorph-forge-1.18.2-0.45.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  74924,
+                      "fileID":  3829975,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3829/975/Mantle-1.18.2-1.9.27.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  250294,
+                      "fileID":  3776175,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3776/175/modular-routers-1.18.2-9.1.1-93.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  606618,
+                      "fileID":  3757407,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3757/407/cloudstorage-1.1.0-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  313970,
+                      "fileID":  3950762,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3950/762/Apotheosis-1.18.2-5.6.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  609977,
+                      "fileID":  3795991,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3795/991/AE2-Things-1.0.3-beta.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  347488,
+                      "fileID":  3708292,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3708/292/valhelsia_structures-forge-1.18.2-0.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  380998,
+                      "fileID":  3824420,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3824/420/integratednbt-1.18.2-1.5.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  456956,
+                      "fileID":  3748664,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3748/664/chipped-1.18.2-1.2.1-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  377652,
+                      "fileID":  3818603,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3818/603/materialis-1.18.2-2.6.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  289412,
+                      "fileID":  3725771,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3725/771/ftb-quests-forge-1802.3.8-build.101.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  255902,
+                      "fileID":  3756317,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3756/317/WitherSkeletonTweaks-1.18.2-7.1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  404465,
+                      "fileID":  3909755,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3909/755/ftb-library-forge-1802.3.6-build.140.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  359786,
+                      "fileID":  3916654,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3916/654/VanillaExcavators-1.18.2-4.1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  404468,
+                      "fileID":  3990419,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3990/419/ftb-teams-forge-1802.2.6-build.69.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  452500,
+                      "fileID":  3819674,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3819/674/sushigocrafting-1.18.2-0.3.5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  224633,
+                      "fileID":  3546561,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3546/561/PassthroughSigns-1.18-2.5.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  573156,
+                      "fileID":  3819975,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3819/975/RainShield-1.18.2-1.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  402256,
+                      "fileID":  3758004,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3758/4/cobblegenrandomizer-1.18.2-1.0.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  378802,
+                      "fileID":  3861133,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3861/133/structure_gel-1.18.2-2.4.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  358700,
+                      "fileID":  3545748,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3545/748/moredragoneggs-3.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  280510,
+                      "fileID":  3801087,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3801/87/AttributeFix-Forge-1.18.2-14.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  633483,
+                      "fileID":  3931616,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3931/616/Powah-3.0.4-beta.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  511733,
+                      "fileID":  3750118,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3750/118/clickadv-1.18.2-2.5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  247007,
+                      "fileID":  3768491,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3768/491/CommonCapabilities-1.18.2-2.8.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  548599,
+                      "fileID":  3906977,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3906/977/hexerei-0.2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  250363,
+                      "fileID":  3642382,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3642/382/AutoRegLib-1.7-53.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  312918,
+                      "fileID":  3788736,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3788/736/blue_skies-1.18.2-1.3.12.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  574300,
+                      "fileID":  3968835,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3968/835/Applied-Mekanistics-1.2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  238086,
+                      "fileID":  3965289,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3965/289/kubejs-forge-1802.5.5-build.546.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  400058,
+                      "fileID":  3962120,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3962/120/MythicBotany-1.18.2-2.1.13.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  442508,
+                      "fileID":  3780437,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3780/437/DungeonsArise-1.18.2-2.1.50d-beta.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  569849,
+                      "fileID":  3969898,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3969/898/hexcasting-forge-1.18.2-0.9.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  556448,
+                      "fileID":  3984913,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3984/913/alexsdelight-1.18.2-1.3.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  299540,
+                      "fileID":  3717883,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3717/883/FastFurnace-1.18.2-6.0.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  352039,
+                      "fileID":  3963943,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3963/943/mcw-roofs-2.2.0-mc1.18.2-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  331936,
+                      "fileID":  3783096,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3783/96/citadel-1.11.3-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  250398,
+                      "fileID":  3950209,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3950/209/Controlling-forge-1.18.2-9.0+22.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  388908,
+                      "fileID":  3941088,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3941/88/simpleplanes-1.18.2-4.15.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  291737,
+                      "fileID":  3837829,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/829/thermal_innovation-1.18.2-1.6.3.12.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  626839,
+                      "fileID":  3954544,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3954/544/laserio-1.4.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  382216,
+                      "fileID":  3991478,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3991/478/blueprint-1.18.2-5.5.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  250419,
+                      "fileID":  3976092,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3976/92/EnchantmentDescriptions-Forge-1.18.2-10.0.9.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  576589,
+                      "fileID":  3751528,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3751/528/polylib-forge-1801.0.2-build.13.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  509575,
+                      "fileID":  3745494,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3745/494/observable-2.2.3-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  597824,
+                      "fileID":  3831430,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3831/430/paucal-forge-1.18.2-0.4.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  361026,
+                      "fileID":  4001660,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4001/660/occultism-1.18.2-1.41.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  522992,
+                      "fileID":  3967520,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3967/520/blockui-1.18.2-0.0.62-ALPHA.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  585546,
+                      "fileID":  3707420,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3707/420/BH-Menu-1.18.2-1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  566563,
+                      "fileID":  3816078,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3816/78/TKLib-0.0.23+1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  591149,
+                      "fileID":  3826903,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3826/903/domesticationinnovation-1.4.2-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  452645,
+                      "fileID":  3568634,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3568/634/creativewirelesstransmitter-1.18.1-1.12.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  309674,
+                      "fileID":  3993780,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/780/item-filters-forge-1802.2.8-build.40.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  231484,
+                      "fileID":  3830862,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/862/cookingforblockheads-forge-1.18.2-12.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  401273,
+                      "fileID":  3745269,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3745/269/DustrialDecor-1.3.3-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  287342,
+                      "fileID":  3819942,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3819/942/titanium-1.18.2-3.5.6-38.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  224791,
+                      "fileID":  3953207,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3953/207/BloodMagic-1.18.2-3.2.6-41.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  597869,
+                      "fileID":  3836563,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3836/563/grimoire_of_tetra-1.2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  287357,
+                      "fileID":  3993516,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/516/IntegratedCrafting-1.18.2-1.0.25.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  256087,
+                      "fileID":  3712112,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3712/112/Notes-1.18.2-1.2.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  416935,
+                      "fileID":  3886212,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3886/212/valhelsia_core-forge-1.18.2-0.4.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  631401,
+                      "fileID":  3855148,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3855/148/YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  238222,
+                      "fileID":  3969092,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3969/92/jei-1.18.2-9.7.2.264.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  429235,
+                      "fileID":  3767288,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3767/288/ferritecore-4.2.1-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  271740,
+                      "fileID":  3929072,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3929/72/ToastControl-1.18.2-6.0.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  448233,
+                      "fileID":  3743929,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3743/929/entityculling-forge-mc1.18-1.5.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  594563,
+                      "fileID":  3939879,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3939/879/littlecontraptions-forge-1.18.2.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  347706,
+                      "fileID":  4008043,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/43/rftoolsbuilder-1.18-4.0.16.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  363363,
+                      "fileID":  3958660,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3958/660/extremesoundmuffler-3.29_forge-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  74072,
+                      "fileID":  3998764,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3998/764/TConstruct-1.18.2-3.5.2.40.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  412525,
+                      "fileID":  3909225,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3909/225/LibX-1.18.2-3.2.19.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  281849,
+                      "fileID":  3995275,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3995/275/pneumaticcraft-repressurized-1.18.2-3.4.3-8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  250577,
+                      "fileID":  3740180,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3740/180/AkashicTome-1.5-20.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  406959,
+                      "fileID":  3837831,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/831/thermal_locomotion-1.18.2-1.6.3.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  570050,
+                      "fileID":  3933046,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3933/46/littlelogistics-mc1.18.2-v1.2.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  350006,
+                      "fileID":  4008044,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/44/rftoolsstorage-1.18-3.0.11.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  461710,
+                      "fileID":  3983466,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3983/466/redstonepen-1.18.2-1.0.11.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  291926,
+                      "fileID":  3786559,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3786/559/no_nv_flash-1.18.2-1.4.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  465066,
+                      "fileID":  3678612,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3678/612/expandability-6.0.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  223794,
+                      "fileID":  4008959,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/959/appliedenergistics2-11.4.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  291936,
+                      "fileID":  3732916,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3732/916/findme-3.0.6-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  484064,
+                      "fileID":  4001018,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4001/18/malum-1.18.2-1.4.3.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  271835,
+                      "fileID":  3837822,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/822/thermal_cultivation-1.18.2-1.6.3.11.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  252848,
+                      "fileID":  3858196,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3858/196/NaturesCompass-1.18.2-1.9.7-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  289712,
+                      "fileID":  3844400,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3844/400/tetra-1.18.2-4.9.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  232758,
+                      "fileID":  3900719,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3900/719/CyclopsCore-1.18.2-1.16.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  453925,
+                      "fileID":  3913067,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3913/67/mcw-fences-1.0.6-mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  353399,
+                      "fileID":  3837815,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/815/archers_paradox-1.18.2-1.6.1.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  255105,
+                      "fileID":  3764167,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3764/167/FriendlyFire-Forge-1.18.2-11.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  242818,
+                      "fileID":  4009409,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4009/409/CodeChickenLib-1.18.2-4.1.2.475-universal.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  441647,
+                      "fileID":  4009762,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4009/762/FramedBlocks-5.7.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  429371,
+                      "fileID":  3923657,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3923/657/kubejs-create-forge-1802.2.2-build.28.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  575698,
+                      "fileID":  3936573,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3936/573/ars_creo-1.18.2-2.1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  325492,
+                      "fileID":  3669531,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3669/531/light-overlay-6.0.5-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  496394,
+                      "fileID":  3756127,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3756/127/NethersDelight-1.18.2-2.2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  580179,
+                      "fileID":  3861914,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3861/914/ars_instrumentum-1.18.2-2.4.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  525447,
+                      "fileID":  3965092,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3965/92/jmi-forge-1.18.2-0.13-31.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  445025,
+                      "fileID":  3565298,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3565/298/time-in-a-bottle-2.1.0-mc1.18.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  438332,
+                      "fileID":  3862966,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3862/966/supermartijn642configlib-1.1.6-forge-mc1.18.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  532169,
+                      "fileID":  3734638,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3734/638/energymeter-1.18.2-3.2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  268560,
+                      "fileID":  3875976,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3875/976/Mekanism-1.18.2-10.2.5.465.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  633823,
+                      "fileID":  4009651,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4009/651/almostunified-forge-1.18.2-0.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  361276,
+                      "fileID":  3991008,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3991/8/lootr-1.18.2-0.2.21.58.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  268566,
+                      "fileID":  3875978,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3875/978/MekanismGenerators-1.18.2-10.2.5.465.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  268567,
+                      "fileID":  3875979,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3875/979/MekanismTools-1.18.2-10.2.5.465.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  306549,
+                      "fileID":  3954953,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3954/953/Tips-Forge-1.18.2-5.0.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  486392,
+                      "fileID":  3934664,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3934/664/flywheel-forge-1.18.2-0.6.5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  536660,
+                      "fileID":  3777944,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3777/944/YungsBridges-1.18.2-Forge-2.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  619320,
+                      "fileID":  4006092,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4006/92/sophisticatedstorage-1.18.2-0.5.17.152.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  237307,
+                      "fileID":  3738144,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3738/144/CosmeticArmorReworked-1.18.2-v2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  298744,
+                      "fileID":  3993362,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/362/structurize-1.18.2-1.0.448-ALPHA.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  495336,
+                      "fileID":  3890173,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3890/173/advancednetherite-1.12.4-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  282001,
+                      "fileID":  3904453,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3904/453/cc-tweaked-1.18.2-1.100.9.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  309927,
+                      "fileID":  3841948,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3841/948/curios-forge-1.18.2-5.0.7.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  351264,
+                      "fileID":  3925887,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3925/887/kotlinforforge-3.7.1-obf.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  360203,
+                      "fileID":  3823106,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3823/106/guardvillagers-1.18.2.1.4.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  363569,
+                      "fileID":  3712019,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3712/19/mcw-windows-2.0.3-mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  261924,
+                      "fileID":  3830914,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/914/farmingforblockheads-forge-1.18.2-10.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  409371,
+                      "fileID":  3837351,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/351/meetyourfight-1.18.2-1.2.5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  245174,
+                      "fileID":  3951068,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3951/68/EnderStorage-1.18.2-2.9.0.182-universal.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  301034,
+                      "fileID":  3776062,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3776/62/entangled-1.3.11-forge-mc1.18.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  431725,
+                      "fileID":  3971494,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3971/494/AdvancedPeripherals-0.7.19r.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  306626,
+                      "fileID":  3990409,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3990/409/NaturesAura-36.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  622737,
+                      "fileID":  3989569,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3989/569/ftbbackups2-forge-1.18.2-1.0.14.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  388172,
+                      "fileID":  3989823,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3989/823/geckolib-forge-1.18-3.0.39.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  268655,
+                      "fileID":  3797378,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3797/378/GameStages-Forge-1.18.2-8.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  421694,
+                      "fileID":  3834362,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3834/362/kubejs-thermal-1802.1.5-build.14.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  407174,
+                      "fileID":  3759881,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3759/881/shutupexperimentalsettings-1.0.5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  245211,
+                      "fileID":  3965688,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3965/688/theoneprobe-1.18-5.1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  532286,
+                      "fileID":  3820697,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3820/697/jeed-1.18.2-1.11.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  556861,
+                      "fileID":  3956952,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3956/952/functionalstorage-1.18.2-1.0.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  606011,
+                      "fileID":  3926816,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3926/816/Timber_Frames_1.18.2_1.5_CTM.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  222880,
+                      "fileID":  3837827,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/827/thermal_foundation-1.18.2-1.6.3.28.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  618298,
+                      "fileID":  4006086,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4006/86/sophisticatedcore-1.18.2-0.5.12.129.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  277616,
+                      "fileID":  3571539,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3571/539/SoL-Carrot-1.18.1-1.12.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  396019,
+                      "fileID":  3626457,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3626/457/SaveYourPets-1.18-1.0.0.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  284324,
+                      "fileID":  3732908,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3732/908/emojiful-1.18.2-3.0.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  531188,
+                      "fileID":  3954083,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3954/83/The_Graveyard_1.9.2_(FORGE)_for_1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  307788,
+                      "fileID":  3617200,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3617/200/rsrequestify-2.2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  459701,
+                      "fileID":  3803098,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3803/98/catalogue-1.6.2-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  460819,
+                      "fileID":  3544496,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3544/496/lazydfu-1.0-1.18+.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  362528,
+                      "fileID":  3965454,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3965/454/Decorative Blocks-forge-1.18.2-2.1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  236307,
+                      "fileID":  3993501,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/501/IntegratedDynamics-1.18.2-1.11.12.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  241895,
+                      "fileID":  3830926,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/926/kleeslabs-forge-1.18.2-11.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  345779,
+                      "fileID":  3687629,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3687/629/plonk-1.18.2-10.0.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  267602,
+                      "fileID":  3933537,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3933/537/CTM-1.18.2-1.1.5+5.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  495476,
+                      "fileID":  3804332,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3804/332/PuzzlesLib-v3.3.5-1.18.2-Forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  248619,
+                      "fileID":  3807867,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3807/867/SuperCircuitMaker2-0.2.9+1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  260912,
+                      "fileID":  4008046,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/46/xnet-1.18-4.0.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  228525,
+                      "fileID":  3961347,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3961/347/Bookshelf-Forge-1.18.2-13.2.50.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  421770,
+                      "fileID":  3747177,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3747/177/kubejs-immersive-engineering-1802.2.1-build.35.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  539057,
+                      "fileID":  3671421,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3671/421/TradingPost-v3.2.0-1.18.2-Forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  342466,
+                      "fileID":  4008040,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/40/rftoolsutility-1.18-4.0.19.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  245287,
+                      "fileID":  3740184,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3740/184/Morph-o-Tool-1.5-32.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  266515,
+                      "fileID":  3957263,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3957/263/industrial-foregoing-1.18.2-3.3.1.5-9.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  495509,
+                      "fileID":  3931224,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3931/224/spirit-forge-1.18.2-2.1.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  377109,
+                      "fileID":  3801128,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3801/128/ToolStats-Forge-1.18.2-9.0.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  296686,
+                      "fileID":  3968359,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3968/359/rsgauges-1.18.2-1.2.16.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  499980,
+                      "fileID":  3842421,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3842/421/selene-1.18.2-1.17.9.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  233019,
+                      "fileID":  3798941,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3798/941/AI-Improvements-1.18.2-0.5.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  243076,
+                      "fileID":  3921390,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3921/390/refinedstorage-1.10.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  482123,
+                      "fileID":  3907510,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3907/510/VanillaAIOTs-1.18.2-1.1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  288885,
+                      "fileID":  3929012,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3929/12/FastWorkbench-1.18.2-6.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  539097,
+                      "fileID":  3981703,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3981/703/ftb-industrial-contraptions-1802.1.6-build.214.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  247560,
+                      "fileID":  3956521,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3956/521/Oh_The_Biomes_You\u0027ll_Go-forge-1.18.2-1.4.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  55438,
+                      "fileID":  3683524,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3683/524/cfm-7.0.0-pre29-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  560323,
+                      "fileID":  3669114,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3669/114/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  254268,
+                      "fileID":  3724596,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3724/596/torchmaster-18.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  312353,
+                      "fileID":  3984105,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3984/105/artifacts-1.18.2-4.2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  306770,
+                      "fileID":  3846086,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3846/86/Patchouli-1.18.2-71.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  457570,
+                      "fileID":  4010624,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4010/624/configured-2.0.0-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  405077,
+                      "fileID":  3751752,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3751/752/gunswithoutroses-1.18.2-1.0.14.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  254284,
+                      "fileID":  3738299,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3738/299/AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  422951,
+                      "fileID":  3940364,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3940/364/some-assembly-required-1.18.2-2.0.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  243121,
+                      "fileID":  3840125,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3840/125/Quark-3.2-358.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  231951,
+                      "fileID":  3964014,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3964/14/ImmersiveEngineering-1.18.2-8.2.2-154.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  561470,
+                      "fileID":  3940588,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3940/588/ars_elemental-1.18.2-0.4.9.7.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  510089,
+                      "fileID":  3777934,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3777/934/YungsBetterDungeons-1.18.2-Forge-2.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  421850,
+                      "fileID":  3779088,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3779/88/YungsApi-1.18.2-Forge-2.0.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  440845,
+                      "fileID":  3816501,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3816/501/moreminecarts-1.4.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  358191,
+                      "fileID":  3983399,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3983/399/PackMenu-1.18.2-4.1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  411813,
+                      "fileID":  3998985,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3998/985/stackrefill_1.18.2-3.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  316873,
+                      "fileID":  3553486,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3553/486/curioofundying-forge-1.18-5.3.0.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  492246,
+                      "fileID":  3764471,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3764/471/MaxHealthFix-Forge-1.18.2-5.0.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  233105,
+                      "fileID":  3994822,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3994/822/mcjtylib-1.18-6.0.17.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  386134,
+                      "fileID":  3993576,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/576/ftb-ultimine-forge-1802.3.3-build.67.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  416294,
+                      "fileID":  3965669,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3965/669/rhino-forge-1802.2.0-build.232.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  284497,
+                      "fileID":  3908627,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3908/627/IronJetpacks-1.18.2-5.1.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  342584,
+                      "fileID":  4008405,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/405/collective-1.18.2-4.69.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  359343,
+                      "fileID":  3830326,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/326/VanillaHammers-1.18.2-4.1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  361579,
+                      "fileID":  3824951,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3824/951/spark-1.9.11-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  399558,
+                      "fileID":  3712396,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3712/396/constructionwand-1.18.2-2.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  368293,
+                      "fileID":  3820310,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3820/310/repurposed_structures_forge-5.1.14+1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  328085,
+                      "fileID":  4007544,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4007/544/create-1.18.2-0.5.0.e.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  426386,
+                      "fileID":  3786356,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3786/356/Shrink-1.18.2-1.3.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  480006,
+                      "fileID":  3777937,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3777/937/YungsExtras-1.18.2-Forge-2.1.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  248787,
+                      "fileID":  3927564,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3927/564/appleskin-forge-mc1.18.2-2.4.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  559313,
+                      "fileID":  3787188,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3787/188/AEInfinityBooster-1.18.2-1.1.0+9.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  224218,
+                      "fileID":  3905502,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3905/502/compactmachines-4.5.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  419699,
+                      "fileID":  3983970,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3983/970/architectury-4.9.84-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  238747,
+                      "fileID":  3574005,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3574/5/modnametooltip-1.18.1-1.18.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  60028,
+                      "fileID":  3948611,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3948/611/Aquaculture-1.18.2-2.3.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  282313,
+                      "fileID":  3757606,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3757/606/TipTheScales-forge-1.18.2-5.0.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  482265,
+                      "fileID":  3946983,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3946/983/trofers-1.18.2-2.7.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  502372,
+                      "fileID":  3911487,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3911/487/mcw-lights-1.0.4-mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  319194,
+                      "fileID":  3759157,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3759/157/glassential-forge-1.18.2-1.2.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  377281,
+                      "fileID":  3796183,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3796/183/DarkPaintings-Forge-1.18.2-10.0.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  358304,
+                      "fileID":  3751574,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3751/574/logprot-1.18.2-1.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  398521,
+                      "fileID":  3999153,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3999/153/FarmersDelight-1.18.2-1.2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  454372,
+                      "fileID":  3863129,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3863/129/supermartijn642corelib-1.0.19-forge-mc1.18.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  334853,
+                      "fileID":  3968167,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3968/167/SimpleDiscordRichPresence-forge-3.0.1-build.21+mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  272302,
+                      "fileID":  3713972,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3713/972/refinedstorageaddons-0.8.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  230976,
+                      "fileID":  3693140,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3693/140/FastLeafDecay-28.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  367254,
+                      "fileID":  3680704,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3680/704/MoreVanillaLib-1.18.2-3.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  366140,
+                      "fileID":  3814624,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3814/624/dynview-1.18.2-2.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  60089,
+                      "fileID":  3578801,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  227639,
+                      "fileID":  3998681,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3998/681/twilightforest-1.18.2-4.1.1423-universal.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  418651,
+                      "fileID":  3787382,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3787/382/kubejs-mekanism-1802.1.3-build.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  237701,
+                      "fileID":  3834621,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3834/621/ReAuth-1.18-Forge-4.0.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  465575,
+                      "fileID":  3778231,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3778/231/YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  272335,
+                      "fileID":  4005476,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4005/476/Cucumber-1.18.2-5.1.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  257814,
+                      "fileID":  3948720,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3948/720/CreativeCore_FORGE_v2.6.15_mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  290209,
+                      "fileID":  4008042,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/42/rftoolspower-1.18-4.0.7.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  232131,
+                      "fileID":  3830896,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3830/896/defaultoptions-forge-1.18.2-14.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  535960,
+                      "fileID":  3818442,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3818/442/macawsbridgesbyg-1.18.2-1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  256717,
+                      "fileID":  3913406,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3913/406/Clumps-forge-1.18.2-8.0.0+15.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  266784,
+                      "fileID":  3738448,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3738/448/scannable-1.18.2-forge-1.7.6+135af8a.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  349447,
+                      "fileID":  3837816,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/816/ensorcellation-1.18.2-1.6.1.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  389665,
+                      "fileID":  3855186,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3855/186/YungsBetterMineshafts-1.18.2-Forge-2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  401955,
+                      "fileID":  3983779,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3983/779/ars_nouveau-1.18.2-2.7.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  324888,
+                      "fileID":  3671112,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3671/112/ToolKit-2.2.1-build.4+mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  563928,
+                      "fileID":  3957976,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3957/976/TerraBlender-forge-1.18.2-1.2.0.126.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  371813,
+                      "fileID":  3808085,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3808/85/crashutilities-4.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  560595,
+                      "fileID":  3721969,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3721/969/toomanyglyphs-1.18.1-2.0.7.15321.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  426558,
+                      "fileID":  3853078,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3853/78/alexsmobs-1.18.6.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  577356,
+                      "fileID":  3981848,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3981/848/macawsroofsbyg-1.18.2-1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  513688,
+                      "fileID":  4001337,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4001/337/Terralith_v2.2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  351725,
+                      "fileID":  4000867,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4000/867/mcw-bridges-2.0.4-mc1.18.2forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  616457,
+                      "fileID":  3986845,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3986/845/lodestone-1.18.2-1.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  261251,
+                      "fileID":  3800660,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3800/660/bwncr-3.13.21.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  231095,
+                      "fileID":  3957651,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3957/651/ChiselsBits-forge-1.18.2-1.2.114-universal.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  326041,
+                      "fileID":  3970754,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3970/754/rftoolsbase-1.18-3.0.11.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  32274,
+                      "fileID":  3927228,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3927/228/journeymap-1.18.2-5.9.0beta2-forge.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  417645,
+                      "fileID":  3670345,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3670/345/JustEnoughProfessions-1.18.2-1.2.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  241160,
+                      "fileID":  3549513,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3549/513/netherportalfix-forge-1.18-9.0.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  351748,
+                      "fileID":  3725832,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3725/832/mininggadgets-1.11.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  295910,
+                      "fileID":  3993444,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3993/444/IntegratedTerminals-1.18.2-1.3.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  69162,
+                      "fileID":  3838025,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3838/25/cofh_core-1.18.2-1.6.4.21.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  412082,
+                      "fileID":  4012521,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4012/521/supplementaries-1.18.2-1.5.8.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  69163,
+                      "fileID":  3837868,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3837/868/thermal_expansion-1.18.2-1.6.3.13.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  631016,
+                      "fileID":  3950598,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3950/598/YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  314906,
+                      "fileID":  3983773,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3983/773/ftb-chunks-forge-1802.3.6-build.170.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  324973,
+                      "fileID":  3870934,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3870/934/DungeonCrawl-1.18.2-2.3.10.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  283644,
+                      "fileID":  3956308,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3956/308/Placebo-1.18.2-6.6.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  294815,
+                      "fileID":  3741339,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3741/339/AIOTBotania-1.18.2-2.1.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  280294,
+                      "fileID":  3680770,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3680/770/FpsReducer2-forge-1.18.2-2.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  400933,
+                      "fileID":  3914241,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3914/241/mcw-trapdoors-1.0.7-mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  293702,
+                      "fileID":  3871798,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3871/798/parry-2.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  276951,
+                      "fileID":  3682307,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3682/307/comforts-forge-1.18.2-5.0.0.4.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  470193,
+                      "fileID":  3833738,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3833/738/connectivity-1.18.2-3.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  546151,
+                      "fileID":  3777659,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3777/659/myrtrees-forge-1.1.0-build.29.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  413234,
+                      "fileID":  3741307,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3741/307/TravelAnchors-1.18.2-3.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  233398,
+                      "fileID":  4008047,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/47/deepresonance-3.0.14.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  298187,
+                      "fileID":  3725903,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3725/903/buildinggadgets-3.13.0-build.5+mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  272515,
+                      "fileID":  3848850,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3848/850/BetterAdvancements-1.18.2-0.2.1.132.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  266936,
+                      "fileID":  3968034,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3968/34/JAOPCA-1.18.2-4.1.9.15.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  378646,
+                      "fileID":  3930974,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3930/974/mcw-doors-1.0.7-mc1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  514923,
+                      "fileID":  3912758,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3912/758/tempad-forge-1.18.2-1.4.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  313866,
+                      "fileID":  4002426,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4002/426/engineersdecor-1.18.2-1.1.25.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  543972,
+                      "fileID":  3967546,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3967/546/refinedcooking-2.0.0.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  561848,
+                      "fileID":  3824466,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3824/466/arsarsenal-1.1.1-1.18.2.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  538392,
+                      "fileID":  4008503,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4008/503/modonomicon-1.18.2-1.3.1.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  383129,
+                      "fileID":  3856668,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/3856/668/connectedglass-1.1.4-forge-mc1.18.jar",
+                      "required":  true
+                  }
+              ],
+    "manifestVersion":  1,
+    "name":  "Enigmatica8",
+    "overrides":  "overrides",
+    "author":  "EnigmaticaModpacks",
+    "minecraft":  {
+                      "version":  "1.18.2",
+                      "modLoaders":  [
+                                         {
+                                             "id":  "forge-40.1.80",
+                                             "primary":  true
+                                         }
+                                     ]
+                  }
+}
